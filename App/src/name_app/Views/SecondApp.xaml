@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="name_app.Views.SecondApp">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Insert your information here" 
+                   Padding="10" 
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"></Label>
+            <Entry x:Name="Name" 
+                   Placeholder="Name"
+                   MaxLength="50" 
+                   ></Entry>
+            <Entry x:Name="LastName" 
+                   Placeholder="Last name"
+                   MaxLength="50" />
+            <Entry x:Name="BirthYear"
+                   Keyboard="Numeric"
+                   Placeholder="Birth year"
+                   MaxLength="4"  />
+            <Entry x:Name="BithPlace" 
+                   Placeholder="Birth place"/>
+
+            <Picker x:Name="MaritalStatus"
+                    Title="Select your marital status"/>
+
+            <Picker x:Name="Mayor"
+                    Title="Select your mayor" />
+            
+            <Button Text="Submit information" 
+                    Clicked="Button_Clicked"
+                    HorizontalOptions="Center"
+                   WidthRequest="200" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
