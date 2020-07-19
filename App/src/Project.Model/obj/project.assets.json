@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj",
+      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj",
       "projectName": "Project.Model",
-      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj",
+      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj",
       "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\obj\\",
+      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

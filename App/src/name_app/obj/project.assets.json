@@ -764,11 +764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj",
+      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj",
+      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj",
       "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\obj\\",
+      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -788,8 +788,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj": {
-              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj"
+            "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj": {
+              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj"
             }
           }
         }

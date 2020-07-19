@@ -16,3 +16,21 @@ C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\Proj
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Platform.dll
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Core.pdb
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Core.xml
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.App.deps.json
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.App.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.App.pdb
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.Infrastructure.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.Model.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Core.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Platform.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.Infrastructure.pdb
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Project.Model.pdb
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Core.pdb
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\bin\Debug\netstandard2.0\Xamarin.Forms.Core.xml
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.csprojAssemblyReference.cache
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.AssemblyInfoInputs.cache
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.AssemblyInfo.cs
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.csproj.CoreCompileInputs.cache
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.csproj.CopyComplete
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.dll
+C:\Users\ElvinReyes\Desktop\Aplication\App\src\Project.App\obj\Debug\netstandard2.0\Project.App.pdb

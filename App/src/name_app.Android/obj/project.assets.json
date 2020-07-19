@@ -2129,11 +2129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.Android\\App.Android.csproj",
+      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.Android\\App.Android.csproj",
       "projectName": "App.Android",
-      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.Android\\App.Android.csproj",
+      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.Android\\App.Android.csproj",
       "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.Android\\obj\\",
+      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2154,8 +2154,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj": {
-              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj"
+            "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj": {
+              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj"
             }
           }
         }

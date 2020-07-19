@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj": {}
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\Project.Infrastructure.csproj": {
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\Project.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\Project.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\Project.Infrastructure.csproj",
         "projectName": "Project.Infrastructure",
-        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\Project.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\Project.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj": {
-                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj"
+              "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj": {
+                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj": {
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
         "projectName": "App.iOS",
-        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj",
+        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
         "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\obj\\",
+        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -95,8 +95,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj": {
-                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj"
+              "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj": {
+                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj": {
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj",
+        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj",
+        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj",
         "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\obj\\",
+        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -155,8 +155,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj": {
-                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj"
+              "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj": {
+                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj"
               }
             }
           }
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj": {
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj",
+        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj",
         "projectName": "Project.App",
-        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\Project.App.csproj",
+        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\Project.App.csproj",
         "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.App\\obj\\",
+        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -226,11 +226,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\Project.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Infrastructure\\Project.Infrastructure.csproj"
+              "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\Project.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Infrastructure\\Project.Infrastructure.csproj"
               },
-              "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj": {
-                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj"
+              "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj": {
+                "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj"
               }
             }
           }
@@ -265,14 +265,14 @@
         }
       }
     },
-    "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj": {
+    "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj",
         "projectName": "Project.Model",
-        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj",
+        "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj",
         "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\obj\\",
+        "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

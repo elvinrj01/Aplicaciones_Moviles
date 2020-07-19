@@ -28,63 +28,35 @@ namespace name_app.Views
                     break;
             }
 
-            MaritalStatus.ItemsSource = new List<string>()
+            Months.ItemsSource = new List<int>()
             {
-                "Single",
-                "Married",
-                "Widowed",
-                "Separated",
-                "Divorced"
-            }; 
-
-            Mayor.ItemsSource = new List<string>()
-            {
-                "Software Engineer",
-                "Teacher",
-                "Doctor",
-                "Nurse"
+               1, 2, 3, 4,5,6,7,8,9,10,11,12
             };
         }
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            // if (!ValidationHelper.IsFormValid(Model, _page)) { return; }
+            double loanAmount = 0;
+            double loanRate = 0;
+            var amount = Amount.Text;
+            var rate = LoanRate.Text;
 
-            var year = 0;
-            var name = Name.Text;
-            var lastName = LastName.Text;
-            var birthPlace = BithPlace.Text;
+            var months = (Picker)Months;
+            int selectedIndexMonths = months.SelectedIndex;
 
-            var maritalStatus = (Picker)MaritalStatus;
-            var career = (Picker)Mayor;
-            int selectedIndexMaritalStatus = maritalStatus.SelectedIndex;
-            int selectedIndexCareer = career.SelectedIndex;
-
-            if (!int.TryParse(BirthYear.Text, out year)
-                || selectedIndexMaritalStatus <0
-                || selectedIndexCareer<0
-                || string.IsNullOrWhiteSpace(name)
-                || string.IsNullOrWhiteSpace(lastName)
-                || string.IsNullOrWhiteSpace(birthPlace))
+            if (selectedIndexMonths < 0
+                || !Double.TryParse(amount, out loanAmount)
+                || !Double.TryParse(rate, out loanRate))
             {
                 DisplayAlert("Error", "Some values are empty", "OK");
                 return;
             }
 
-            var years = DateTime.Now.Year - year;
-
-            if(years >100)
-            {
-                DisplayAlert("Error", "Invalid birth year", "OK");
-                return;
-            }
-
-            var message = $"Hi! Mi name is {name} {lastName}, " +
-                $"I'm {years} years old, I was born in {birthPlace}, " +
-                $"currently I am {(string)maritalStatus.ItemsSource[selectedIndexMaritalStatus]} and I have " +
-                $"a mayor in {(string)career.ItemsSource[selectedIndexCareer]}.";
-
-            DisplayAlert("Personal Information", message, "OK");
+            var monthsNumber = (int)months.ItemsSource[selectedIndexMonths];
+            double t = loanRate / 1200;
+            double b = Math.Pow((1 + t), monthsNumber);
+            var montlyAmount = t * loanAmount * b / (b - 1);
+            loanMontlyAmount.Text = montlyAmount.ToString("C2");
         }
     }
 }

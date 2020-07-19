@@ -7,34 +7,31 @@
              x:Class="name_app.Views.SecondApp">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Insert your information here" 
+            <Label Text="Personal Loan Calculator" 
                    Padding="10" 
                    VerticalOptions="Center"
                    HorizontalOptions="Center"></Label>
-            <Entry x:Name="Name" 
-                   Placeholder="Name"
-                   MaxLength="50" 
-                   ></Entry>
-            <Entry x:Name="LastName" 
-                   Placeholder="Last name"
-                   MaxLength="50" />
-            <Entry x:Name="BirthYear"
-                   Keyboard="Numeric"
-                   Placeholder="Birth year"
-                   MaxLength="4"  />
-            <Entry x:Name="BithPlace" 
-                   Placeholder="Birth place"/>
-
-            <Picker x:Name="MaritalStatus"
-                    Title="Select your marital status"/>
-
-            <Picker x:Name="Mayor"
-                    Title="Select your mayor" />
             
-            <Button Text="Submit information" 
+            <Entry x:Name="Amount"
+                   Keyboard="Numeric"
+                   Placeholder="Loan amount" />
+
+            <Picker x:Name="Months"
+                    Title="Select number of months"/>
+
+            <Entry x:Name="LoanRate"
+                   Keyboard="Numeric"
+                   Placeholder="Loan rate" />
+
+            <Entry x:Name="loanMontlyAmount"
+                   Keyboard="Text"
+                   IsEnabled="False"
+                   Placeholder="Loan montly amount" />
+
+            <Button Text="Calculate Loan Montly Amount" 
                     Clicked="Button_Clicked"
                     HorizontalOptions="Center"
-                   WidthRequest="200" />
+                   WidthRequest="400" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

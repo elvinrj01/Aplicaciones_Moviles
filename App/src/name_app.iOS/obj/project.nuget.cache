@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0NNsVEhRDw2VPkTC6o1p8JmzOO6oVDnF9I1FkKDnvQgTuqa3teJTx2oae3pseuKwo1YdX2EAw2D+m9rlS6pbBQ==",
+  "dgSpecHash": "HvuR3pXJZDqfATqzsDv7CyTAicmMAa6p/NlvTWlPo+OozNhgRzAJ+ELR1vQ8NoSMVhy/nZDcmU+v8Q+XIXqtig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

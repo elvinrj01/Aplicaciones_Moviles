@@ -1355,11 +1355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
       "projectName": "App.iOS",
-      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\App.iOS.csproj",
+      "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
       "packagesPath": "C:\\Users\\ElvinReyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.iOS\\obj\\",
+      "outputPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1380,8 +1380,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj": {
-              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app\\App.csproj"
+            "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj": {
+              "projectPath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app\\App.csproj"
             }
           }
         }

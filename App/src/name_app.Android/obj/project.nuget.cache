@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9vlTduXNkUHpdXMzzHhuvTUNY1TKvgIWcy8mliAWk5G8540sFs6miPoGXri0beiJ5mcaedMvRcBAGCiuJTOWw==",
+  "dgSpecHash": "nV8VgrTuzOhJS2tva6AxqBJ4w7VZH14tD88lOLWTKmywydbr2z8tr28p1X1PIzSU09fdZQRh8PBrCm32tjTVAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\name_app.Android\\App.Android.csproj",
+  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.Android\\App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

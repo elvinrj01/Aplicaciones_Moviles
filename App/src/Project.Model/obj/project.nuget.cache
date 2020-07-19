@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bras5zQCf9ekExGD1dcfF9yrjkOkJaoBCnhSgj5Qx2TG4mHHo6WCqGHd8JqPkO4BWRA2Ra/egtVzP7038HWBvA==",
+  "dgSpecHash": "Wj3iIUYk+uTKHhrwkXxPL+b6I6IXKjqubkypjBiabE06v/B4Pv3iBa9uNlu/ywg4vjlKFKFVuh2GaH79RzJYdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\App\\App\\src\\Project.Model\\Project.Model.csproj",
+  "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\Project.Model\\Project.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
