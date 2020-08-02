@@ -5,9 +5,7 @@ C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\com.co
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\com.companyname.name_app-Signed.aab
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\com.companyname.name_app-Signed.apk
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\App.dll
-C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\Project.Model.dll
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\App.pdb
-C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\bin\Debug\Project.Model.pdb
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\obj\Debug\90\build.props
 C:\Users\ElvinReyes\Desktop\Aplication\App\src\name_app.Android\obj\Debug\90\adb.props

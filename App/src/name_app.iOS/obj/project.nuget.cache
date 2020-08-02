@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "HvuR3pXJZDqfATqzsDv7CyTAicmMAa6p/NlvTWlPo+OozNhgRzAJ+ELR1vQ8NoSMVhy/nZDcmU+v8Q+XIXqtig==",
+  "dgSpecHash": "BufgJmF4z/MBYiHJ/MgXl7oInV72QmXmXBB71heINEHgiEJ950LwFL4XPSV1Xn1azXwk1SauKn44Ed5wfF0zrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\Aplication\\App\\src\\name_app.iOS\\App.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"

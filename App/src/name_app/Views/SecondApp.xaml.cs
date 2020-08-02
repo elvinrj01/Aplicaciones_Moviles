@@ -1,7 +1,4 @@
-﻿using Project.App.Data;
-using Project.Infrastructure.Utils;
-using Project.Model.ViewModels.Controls.Inputs;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,9 +12,7 @@ namespace name_app.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class SecondApp : ContentPage
     {
-        public PersonalInformationInputDTO Model { get; set; } = new PersonalInformationInputDTO();
-        private Page _page;
-        public SecondApp(Page page)
+        public SecondApp()
         {
             InitializeComponent();
 

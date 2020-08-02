@@ -11,7 +11,7 @@ namespace name_app
         {
             InitializeComponent();
 
-            MainPage = new SecondApp(new Page());
+            MainPage = new SecondApp();
         }
 
         protected override void OnStart()

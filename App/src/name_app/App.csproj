@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Project.App\Project.App.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="Views\FirstApp.xaml.cs">
       <DependentUpon>FirstApp.xaml</DependentUpon>
     </Compile>
